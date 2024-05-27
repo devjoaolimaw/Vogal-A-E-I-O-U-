@@ -1,0 +1,14 @@
+c:\dev\Vogal\obj\Debug\net7.0\Vogal.GeneratedMSBuildEditorConfig.editorconfig
+c:\dev\Vogal\obj\Debug\net7.0\Vogal.AssemblyInfoInputs.cache
+c:\dev\Vogal\obj\Debug\net7.0\Vogal.AssemblyInfo.cs
+c:\dev\Vogal\obj\Debug\net7.0\Vogal.csproj.CoreCompileInputs.cache
+c:\dev\Vogal\bin\Debug\net7.0\Vogal.exe
+C:\dev\Vogal\bin\Debug\net7.0\Vogal.deps.json
+C:\dev\Vogal\bin\Debug\net7.0\Vogal.runtimeconfig.json
+c:\dev\Vogal\bin\Debug\net7.0\Vogal.dll
+c:\dev\Vogal\bin\Debug\net7.0\Vogal.pdb
+c:\dev\Vogal\obj\Debug\net7.0\Vogal.dll
+c:\dev\Vogal\obj\Debug\net7.0\refint\Vogal.dll
+c:\dev\Vogal\obj\Debug\net7.0\Vogal.pdb
+C:\dev\Vogal\obj\Debug\net7.0\Vogal.genruntimeconfig.cache
+C:\dev\Vogal\obj\Debug\net7.0\ref\Vogal.dll
